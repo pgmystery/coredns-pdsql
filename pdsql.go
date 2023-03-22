@@ -2,10 +2,11 @@
 package pdsql
 
 import (
-	"coredns-pdsql/pdnsmodel"
 	"net"
 	"strconv"
 	"strings"
+
+	"github.com/arthurkay/coredns-pdsql/pdnsmodel"
 
 	"github.com/coredns/coredns/plugin"
 	"github.com/coredns/coredns/request"
