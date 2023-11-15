@@ -3,7 +3,7 @@ package pdsql
 import (
 	"log"
 
-	"github.com/arthurkay/coredns-pdsql/pdnsmodel"
+	"github.com/pgmystery/coredns-pdsql/pdnsmodel"
 
 	"github.com/coredns/caddy"
 	"github.com/coredns/coredns/core/dnsserver"

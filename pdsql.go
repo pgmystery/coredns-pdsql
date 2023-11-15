@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/arthurkay/coredns-pdsql/pdnsmodel"
+	"github.com/pgmystery/coredns-pdsql/pdnsmodel"
 
 	"github.com/coredns/coredns/plugin"
 	"github.com/coredns/coredns/request"
